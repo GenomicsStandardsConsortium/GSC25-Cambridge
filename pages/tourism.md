@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Local Tourist Information
-cover-img: /assets/img/visit-tucson.png
-share-img: /assets/img/View_of_Tucson_from_Sentinel_Peak_2.jpg
+cover-img: /assets/img/.png
+share-img: /assets/img/.jpg
 ---
 
-# Visit Tucson
+# Visit Cambridge
 
-Please see <a href="https://www.visittucson.org/plan-your-visit/transportation/getting-to-tucson/" target=_blank>Visit Tucson</a> website for tourist information.
-
+Coming soon
 
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)

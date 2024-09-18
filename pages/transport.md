@@ -1,23 +1,19 @@
 ---
 layout: page
 title: Local Transportation
-cover-img: /assets/img/sunlink.jpg
-share-img: /assets/img/sunlink.jpg
+cover-img: /assets/img/.jpg
+share-img: /assets/img/.jpg
 ---
 
-# International travel to Tucson
+# International travel to Cambridge
 
-International visitors will likely fly into [Tucson International Airport (TUS)](https://www.visittucson.org/plan-your-visit/transportation/getting-to-tucson/). There are various public transport links from the aitport, for more information see [here](https://www.flytucson.com/transportation/public-transit/).
-
-Alternatively, Phoenix has an airport that is around a two-hour drive from Tucson.
+International visitors will likely fly into one of the London airports Heathrow, Gatwick or Stansted. If you have a choice, then Stansted is by far the closest, but generally only services European flights. There are various public transport links from all  airports.
 
 
 
-# Getting around Tucson
+# Getting around Cambridge
 
-The conference centre at Bio5 is well connected to the suggested hotels as well as to downtown Tucson via the "[Sun Link](https://www.suntran.com/routes-services/sunlink/)" streetcar, see [information here](https://www.suntran.com/wp-content/uploads/2022/10/Sun-Link-Template-map-2022.jpg).
-The Bio5 institute is located near stop 18, while the Marriot and Graduate hotels are both located near stop 14.
-
+Coming soon!
 
 
 
