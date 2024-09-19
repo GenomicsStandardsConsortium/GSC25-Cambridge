@@ -7,14 +7,10 @@ share-img: /assets/img/
 
 # In person registration
 
-We antipate opening registration in March 2024.
+We anticipate opening registration in March 2024.
 
 
-By registering you are agreeing to the terms and conditions set out below, please read those careful before completing your registration. Please note, **invited speakers and GSC board members** should NOT register using the above link, please contact the organisers if you have not had registration details sent to you already.
-
-## Virtual Registration 
-
-If you are unable to attend in person we are considering offering a live stream of the main sessions, unlike previous years we will need to make a charge (TBC) for virtual registration in order to cover the associated AV and technical costs. 
+By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration. Please note, **invited speakers and GSC board members** should NOT register using the above link, please contact the organisers if you have not had registration details sent to you already.
 
 
 ## Registration Fee

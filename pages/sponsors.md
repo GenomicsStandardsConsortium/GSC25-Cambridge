@@ -66,10 +66,10 @@ A brochure describing the sponsorship opportunities is [available here](https://
 7.	Logo included on inter-session slides.
 8.	Special recognition of Platinum sponsor at symposium and in print and marketing materials.
 9.	Full-page symposium program advertisement.
-10.	Sponsor representative to join GSC board for GSC24 board dinner.
+10.	Sponsor representative to join GSC board for GSC25 board dinner.
 
 ## Custom Sponsorships
-Custom sponsorships are available, such as add-ons, partial upgrades, and event sponsorships. Please let us know your needs by contacting the <a href="mailto:gsc25-cambridge-organisers@googlegroups.com?subject=GSC25 Cambridge sponsorship">GSC25 organising committee</a> We are happy to accommodate!
+Custom sponsorships are available, such as add-ons, partial upgrades, and event sponsorships. Please let us know your needs by contacting the <a href="mailto:gsc25-cambridge-organisers@googlegroups.com?subject=GSC25 Cambridge sponsorship">GSC25 organising committee.</a> We are happy to accommodate!
 
 
 
