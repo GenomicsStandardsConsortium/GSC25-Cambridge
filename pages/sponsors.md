@@ -28,7 +28,7 @@ ___
 # Sponsorship opportunities
 
 This meeting is intended for academic, corporate, and government professionals in the fields of medical genomics, environmental genomics, metagenomics, and microbiome sciences, tackling technical, metadata, and reproducibility challenges related to sample collection, processing, and genomic sequencing workflows critical for small- and large-scale datasets. It is our intention to discuss and plan for evolving genomic and laboratory standards to address the needs of clinical, academic, and industry researchers with a focus on precision medicine and agriculture. 
-Attendance for the annual meeting is expected to be between 120-250 participants. We envisage a total of between 10 and 20 sponsors of all levels, with 5 to 8 of those at the Platinum sponsor level. 
+Attendance for the annual meeting is expected to be between 100-150 participants. We envisage a total of between 10 and 20 sponsors of all levels, with 5 to 8 of those at the Platinum sponsor level. 
 Scientific vendors will have the opportunity to interact with attendees and speakers during the entire meeting including the opening reception, daily coffee breaks, lunches, and in between sessions. This meeting allows for ample networking time between sponsors and attendees. 
 
 
