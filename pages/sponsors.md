@@ -34,7 +34,7 @@ Scientific vendors will have the opportunity to interact with attendees and spea
 
 
 # Sponsorship Level Opportunities:
-A brochure describing the sponsorship opportunities is [available here](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/assets/GSC25-Cambridge_Sponsorship.pdf - need to create this).
+A brochure describing the sponsorship opportunities is [available here](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/assets/GSC25-Cambridge_Sponsorship.pdf).
 
 ## Bronze Sponsor (£1000) sponsors will receive the following benefits:
 1.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
