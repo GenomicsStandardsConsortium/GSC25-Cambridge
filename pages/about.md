@@ -18,21 +18,21 @@ Each annual meeting is themed around a topic or topics that are relevant to the 
 With the recent movement in the FAIR principles arena towards focusing on machine-readable and actionable data, along with the commitments shown by various National funding agencies towards open and reproducible science, we hope our choice of topic will enable networking of relevant players from standards organisations, funders, and researchers to further the discussions and facilitate a coherent movement towards a more robust future for scientific discovery and dissemination.
 
 This meeting is intended for academic, corporate, and government professionals in the fields of medical genomics, environmental genomics, metagenomics, and microbiome sciences, tackling technical, metadata, and reproducibility challenges related to sample collection, processing, and genomic sequencing workflows critical for small- and large-scale datasets. 
-Attendance for the GSC25  annual meeting is expected to be between 200 and 250 participants.  
+Attendance for the GSC25 annual meeting is expected to be between 100 and 150 participants.  
 
 
 ## GSC past meetings
 Please see [GSC24-Tucson](https://genomicsstandardsconsortium.github.io/GSC24-Tucson/) and [GSC23-Bangkok](https://genomicsstandardsconsortium.github.io/GSC23-Bangkok/) for the previous two GSC meetings.
 
 ## GSC25 Cambridge
-The GSC 2025 annual meeting will be located in Cambridge UK, more details to follow.
+The GSC 2025 annual meeting will be held in [Clare College](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/venue/), Cambridge University, Cambridge UK.
 
 GSC25 Daily Agenda Overview:
 
  * July 28 GSC board meeting – GSC board dinner (invite only)
  * July 29 GSC main meeting - Impacts and Opening Reception 
- * July 30 GSC main meeting - Standards and Afternoon Tea (Networking Event)
- * July 31 GSC main meeting - Forward Focused 
+ * July 30 GSC main meeting - GSC Standards
+ * July 31 GSC main meeting - Forward Focused, AI, Genomics and Standards
  * August 1 GSC Working group meetings (separate registration required)
 
 Meeting Sessions Theme:
