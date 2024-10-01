@@ -13,7 +13,11 @@ architecture, stunning gardens, and a convenient conference venue location in ce
 of the River Cam. The conference will be held in the Riley Auditorium.
 
 ![Clare-College](../assets/img/clare-college.jpg)
-![Clare-Memorial_court](Memorial-Court-Clare-College-Cambridge.jpg)
+17th Century Clare College
+
+
+![Clare-Memorial_court](../assets/img/Memorial-Court-Clare-College-Cambridge.jpg)
+Memorial Court, Clare College.
 
 ## Address
 [Clare College Conferencing](https://www.clareconferencing.com/), Memorial Court, Queen's Rd, Cambridge, CB3 9AJ, United Kingdom
