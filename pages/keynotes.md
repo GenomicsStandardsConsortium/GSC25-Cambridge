@@ -26,8 +26,14 @@ Lara's research focuses on real-time genomic technology and data analysis to bet
 Our final keynote speaker will be revealed soon, come back here later to find out who it will be!
 
 
-# Dawn Field Awardee 
 
+
+
+
+
+
+# Dawn Field Awardee 
+<img align="left" src="../images/to-be-announced.jpg">
 The ‘Dawn Field Award for Outstanding Contributions to Genomic Standards’ annual award, established in 2022, is to recognize achievements of early-career researchers for their significant contributions to the field of genomic standards. The award honors Dr. Dawn Field (1969-2020) the Genomic Standards Consortium (GSC) founder and a pioneer in the field of genomic standards. Nominations are made by GSC Board members. Awardees will present their research at the annual GSC meeting. Dr. Dawn Field established the GSC consortium in 2005, building a community of researchers committed to building and implementing genomic metadata standards to make data discoverable and reusable. 
 
 ## Presenting the 2025 winner
