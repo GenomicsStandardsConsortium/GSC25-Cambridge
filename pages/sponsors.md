@@ -31,23 +31,23 @@ This meeting is intended for academic, corporate, and government professionals i
 Attendance for the annual meeting is expected to be between 100-150 participants. We envisage a total of between 10 and 20 sponsors of all levels, with 5 to 8 of those at the Platinum sponsor level. 
 Scientific vendors will have the opportunity to interact with attendees and speakers during the entire meeting including the opening reception, daily coffee breaks, lunches, and in between sessions. This meeting allows for ample networking time between sponsors and attendees. 
 
-
+Note - Sponsorship values are in USD as the GSC is a registered not-for-profit in USA.
 
 # Sponsorship Level Opportunities:
 A brochure describing the sponsorship opportunities is [available here](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/assets/GSC25-Cambridge_Sponsorship.pdf).
 
-## Bronze Sponsor (£1000) sponsors will receive the following benefits:
+## Bronze Sponsor ($1000) sponsors will receive the following benefits:
 1.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 
-## Silver Sponsor (£3,500) sponsors will receive the following benefits:
+## Silver Sponsor ($3,500) sponsors will receive the following benefits:
 1.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 3.	One free meeting registration.
 4.	Organization name and logo recognition on meeting signage.
 5.	Logo included on inter-session slides.
 	
-## Gold Sponsor (£6,500) sponsors will receive the following benefits:
+## Gold Sponsor ($6,500) sponsors will receive the following benefits:
 1.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 3.	One free meeting registration.
@@ -56,7 +56,7 @@ A brochure describing the sponsorship opportunities is [available here](https://
 6.	Organization name and logo recognition on meeting signage.
 7.	Logo included on inter-session slides.
 
-## Platinum Sponsor (£9,500) sponsors will receive the following benefits:
+## Platinum Sponsor ($9,500) sponsors will receive the following benefits:
 1.	Guaranteed 15-minute speaking slot in the program of the annual GSC meeting.
 2.	Acknowledgment of your sponsorship on the GSC (www.gensc.org), including links to your company’s website.
 3.	Inclusion of the sponsor’s logo in meeting materials.
