@@ -9,14 +9,14 @@ share-img: /assets/img/keynote-banner.png
 
 It is anticipated we will have 3 Keynote speakers, one for each day. Their details will appear here as soon as they are confirmed.
 
-## Ewan Birney
+## [Ewan Birney](https://www.linkedin.com/in/ewan-birney-5a4378/)
 
 <img align="left" src="../images/Ewan_Birney.jpg" style="margin-right:10px">
 Ewan Birney is the Deputy Director General of EMBL. He is also Director of EMBL-EBI, and runs a small research group.
 Ewan completed his PhD at the Wellcome Sanger Institute with Richard Durbin. In 2000, he became Head of Nucleotide data at EMBL-EBI and in 2012 he took on the role of Associate Director at the institute. He became Director of EMBL-EBI in 2015. In 2020, Ewan became the Deputy Director General of EMBL. In this role, he assists the EMBL Director General in relation to engagement with EMBL Member States and external representation. 
 Ewan led the analysis of the Human Genome gene set, mouse and chicken genomes and the ENCODE project, focusing on non-coding elements of the human genome. Ewan’s main areas of research include functional genomics, DNA algorithms, statistical methods to analyse genomic information (in particular information associated with individual differences in humans and Medaka fish) and use of images for chromatin structure.
 
-## Lara Urban
+## [Lara Urban](https://www.linkedin.com/in/lara-urban-a38669240/)
 <img align="left" src="../images/Lara_Urban.jpg" style="margin-right:10px">
 Lara is Principal Investigator at the Helmholtz AI Institute and the Technical University of Munich and member of the German governmental One Health council; from 2025 onwards she will contribute to building the new One Health Institute as professor at the University of Zurich. 
 Lara's research focuses on real-time genomic technology and data analysis to better understand One Health, i.e. health at the intersection of the health of organisms and ecosystems. Previously, Lara did her PhD in Cambridge, at the University of Cambridge and as predoctoral fellow at EMBL-EBI, then moved as independent research fellow to New Zealand to work closely with the national Department of Conservation, and then returned to Europe in 2022 to receive the award as German Young Scientist of the Year and start her own research group.
@@ -49,10 +49,10 @@ Yet to be decided - if you have nominations please contact a GSC board member.
 ### Previous ‘Dawn Field Award for Outstanding Contributions to Genomic Standards’ Awardees:
 
 2022
-Raïssa Meyer at the Alfred Wegener Institute for her work on the The Omic Biodiversity Observation Network.
+*[Raïssa Meyer](https://www.linkedin.com/in/ra%C3%AFssa-meyer-b97515206/) at the Alfred Wegener Institute for her work on the The Omic Biodiversity Observation Network.
 
 2023
-Montana Smith at PNNL for her work on standards for the quantitative stable isotope probing (qSIP) genomics.
+*[Montana Smith](https://www.linkedin.com/in/montana-smith-426994234/)* at PNNL for her work on standards for the quantitative stable isotope probing (qSIP) genomics.
 
 2024 
 *[Savvas Paragkamian](https://www.linkedin.com/in/savvas-paragkamian-741538182)* at University of Crete for his contributions to the analysis of the GSC's 1st Island Sampling day data (see GSC's [ISD GitHub](https://github.com/GenomicsStandardsConsortium/ISD)) .
