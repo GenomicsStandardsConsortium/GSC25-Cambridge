@@ -7,7 +7,7 @@ share-img: /assets/img/keynote-banner.png
 
 # Keynote Speakers
 
-It is anticipated we will have 3 Keynote speakers, one for each day. Their details will appear here as soon as they are confirmed.
+We are pleased to announce that we have 3 confirmed keynote speakers, one for each day:
 
 ## [Ewan Birney](https://www.linkedin.com/in/ewan-birney-5a4378/)
 
@@ -26,6 +26,7 @@ Lara's research focuses on real-time genomic technology and data analysis to bet
 Thulani is a Full Professor in the Department of Microbiology and The School for Data Science and Computational Thinking at Stellenbosch University (SU).
 He graduated from the University of the Western Cape, where he completed his postgraduate training (MSc cum laude, 2009; PhD, 2013). Post-PhD, he moved to the University of Pretoria (UP) in 2013. His research has since focused on understanding the ecology of microbial communities in extreme environments. These habitats include soil microbial communities in the Antarctic Dry Valleys, the Namib Desert, and the human gut microbiome, with an increasing focus on South African geographically strategic regions such as the Southern Ocean.
 Thulani serves on leading editorial boards within his discipline, including as Senior Editor at mSystems, and was recently appointed Editor-in-Chief (Reviews and Perspectives) for the ISME Journal. In 2018 he was elected to the International Board of the ISME and was appointed Director of the ISME Ambassador Program, promoting outreach in over 100 countries. Since 2019, he has served as a member of the NRF Basic and Applied Microbiology Ratings Specialist Committee and was appointed Convener in 2022. In 2023, he was elected to the Academy of Sciences of South Africa (ASSAF).
+
 
 # Dawn Field Awardee 
 <img align="left" src="../images/to-be-announced.jpg" style="margin-right:10px">
