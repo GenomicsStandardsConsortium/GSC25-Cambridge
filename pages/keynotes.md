@@ -21,20 +21,11 @@ Ewan led the analysis of the Human Genome gene set, mouse and chicken genomes an
 Lara is Principal Investigator at the Helmholtz AI Institute and the Technical University of Munich and member of the German governmental One Health council; from 2025 onwards she will contribute to building the new One Health Institute as professor at the University of Zurich. 
 Lara's research focuses on real-time genomic technology and data analysis to better understand One Health, i.e. health at the intersection of the health of organisms and ecosystems. Previously, Lara did her PhD in Cambridge, at the University of Cambridge and as predoctoral fellow at EMBL-EBI, then moved as independent research fellow to New Zealand to work closely with the national Department of Conservation, and then returned to Europe in 2022 to receive the award as German Young Scientist of the Year and start her own research group.
 
-## TBC
-<img align="left" src="../images/to-be-confirmed.jpg" style="margin-right:10px">
-Our final keynote speaker will be revealed soon, come back here later to find out who it will be!
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+## [Thulani P. Makhalanyane](https://www.linkedin.com/in/thulani-makhalanyane-a165a318/)
+<img align="left" src="../images/Thulani_Makhalanyane.jpg" style="margin-right:10px">
+Thulani is a Full Professor in the Department of Microbiology and The School for Data Science and Computational Thinking at Stellenbosch University (SU).
+He graduated from the University of the Western Cape, where he completed his postgraduate training (MSc cum laude, 2009; PhD, 2013). Post-PhD, he moved to the University of Pretoria (UP) in 2013. His research has since focused on understanding the ecology of microbial communities in extreme environments. These habitats include soil microbial communities in the Antarctic Dry Valleys, the Namib Desert, and the human gut microbiome, with an increasing focus on South African geographically strategic regions such as the Southern Ocean.
+Thulani serves on leading editorial boards within his discipline, including as Senior Editor at mSystems, and was recently appointed Editor-in-Chief (Reviews and Perspectives) for the ISME Journal. In 2018 he was elected to the International Board of the ISME and was appointed Director of the ISME Ambassador Program, promoting outreach in over 100 countries. Since 2019, he has served as a member of the NRF Basic and Applied Microbiology Ratings Specialist Committee and was appointed Convener in 2022. In 2023, he was elected to the Academy of Sciences of South Africa (ASSAF).
 
 # Dawn Field Awardee 
 <img align="left" src="../images/to-be-announced.jpg" style="margin-right:10px">
