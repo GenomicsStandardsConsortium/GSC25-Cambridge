@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Local Transportation
-cover-img: /assets/img/.jpg
-share-img: /assets/img/.jpg
+cover-img: /assets/img/transport.jpg
+share-img: /assets/img/transport.jpg
 ---
 
 # International travel to Cambridge
