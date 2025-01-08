@@ -7,22 +7,29 @@ share-img: /assets/img/
 
 # In person registration
 
-We anticipate opening registration in March 2024.
+We anticipate opening registration in Feb 2025.
 
-
-By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration. Please note, **invited speakers and GSC board members** should NOT register using the above link, please contact the organisers if you have not had registration details sent to you already.
+By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration. Please note, **invited speakers and GSC board members** should NOT register using these links, please contact the organisers if you have not had registration details sent to you already.
 
 
 ## Registration Fee
 
-**Registration cost: TBC**
+Click the relevant line item to be taken to the relevant registration form.
 
-**Student registration cost: TBC**
+**Regular attendees:**
+Early Bird : $350 USD (before end of May)
+Full price : $400 USD (after June 1st)
+
+**Student attendees:**
+Early bird: $300 USD (before end of May)
+Full price: $350 USD (after June 1st)
+
+**Industry attendees:**
+Early bird:$450 USD (before endof May)
+Full price: $500 USD (after June 1st)
 
 
 ## Conference Terms and Conditions
-
-Last Updated: 15 April 2024
 
 ### CONFERENCE ATTENDEES CODE OF CONDUCT
 
@@ -94,6 +101,7 @@ By disclosing your personal information to us when using our web site, or in wri
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. 
 
+Last Updated: 15 April 2024
 
 
 [ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
