@@ -12,7 +12,7 @@ share-img: /assets/img/
 ___
 
  ![GoldSponsor](./images/GoldSponsor-500.png)
-
+[ ![GigaScienceGold](./images/GSPress-250.jpg) ](https://gigasciencepress.com/)
 
 ___
 
@@ -22,7 +22,7 @@ ___
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
-
+[ ![MicrobiomeBronze](./microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)
 
 ___
 
