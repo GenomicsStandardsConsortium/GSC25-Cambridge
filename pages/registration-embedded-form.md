@@ -13,20 +13,26 @@ By registering you are agreeing to the terms and conditions set out below, pleas
 
 ## Registration Fee
 
-Click the relevant line item to be taken to the relevant registration form.
 
 **Regular attendees:**
+
 Early Bird : $350 USD (before end of May)
+
 Full price : $400 USD (after June 1st)
 
 **Student attendees:**
+
 Early bird: $300 USD (before end of May)
+
 Full price: $350 USD (after June 1st)
 
 **Industry attendees:**
+
 Early bird:$450 USD (before endof May)
+
 Full price: $500 USD (after June 1st)
 
+Complete the registration form below to register for the meeting:
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRZToVv5UoaFuIkLPPy9l9g1boBVvdL_YFP0SxNfBi2pHOqA/viewform?embedded=true" width="640" height="2243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
