@@ -19,6 +19,7 @@ The meeting will run from:
   * [Keynote](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/keynotes/) 1: Ewan Birney
   * Session 1: 30yrs of Genomes, 20 yrs of Genomic standards (Speaker details coming soon)
   * Session 2: GSC partnerships (Speaker details coming soon)
+  * Evening: Welcome reception & BBQ
   
 * **Wednesday, July 30th GSC main meeting** 
   * [Keynote](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/keynotes/) 2: Thulani Makhalanyane
@@ -32,6 +33,25 @@ The meeting will run from:
 
 * **Friday, August 1st GSC Working group meetings**
   * details coming soon  
+
+## Confirmed Speakers
+
+Ewan Birney
+Owen White
+Nikos Kyrpides
+Kris Locken
+Susanna Sansone
+Ilene Mizrachi
+James Fellow Yates
+Neil Davies
+Thulani Makhalanyane
+Lynn Schriml 
+Chris Hunter
+Sierra Moxon
+Tanja Woyke
+Lara Urban
+Maaly Nassar
+More TBA.
 
 ## Thank you to our sponsors
 
