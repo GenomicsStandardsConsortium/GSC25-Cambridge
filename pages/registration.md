@@ -7,7 +7,7 @@ share-img: /assets/img/
 
 # In person registration
 
-We anticipate opening registration in Feb 2025.
+Registration in now open, it will close 30th June 2025.
 
 By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration. Please note, **invited speakers and GSC board members** should NOT register using these links, please contact the organisers if you have not had registration details sent to you already.
 
