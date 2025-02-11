@@ -17,7 +17,7 @@ of the River Cam. The conference will be held in the Riley Auditorium.
 
 
 ![Clare-Memorial_court](../assets/img/Memorial-Court-Clare-College-Cambridge.jpg)
-Memorial Court, Clare College.
+<br>Memorial Court, Clare College.
 
 ## Address
 [Clare College Conferencing](https://www.clareconferencing.com/), Memorial Court, Queen's Rd, Cambridge, CB3 9AJ, United Kingdom
@@ -26,7 +26,8 @@ Memorial Court, Clare College.
 
 [(![clare-google-map](../assets/img/clare-location.png)](https://maps.app.goo.gl/PZgoxzvmjbZo3kAv9)
 
-
+## Parking
+Please note, there will be NO on-site parking available to delegates. The venue is within easy walking distance of the City centre, and there are multiple options for public transport, see the "Getting around Cambridge" section on the [Local Transportation page](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/transport/)
 
 
 

@@ -22,7 +22,7 @@ Both coach and rail take approximately the same length of time from all 3 airpor
 
 # Getting around Cambridge
 
-Buses are the main public transport option in Cambridge and the [Smart Cambridge](https://smartcambridge.org/transport/) website offers information on all the routes and options available.
+Buses are the main public transport option in Cambridge and the [Smart Cambridge](https://smartcambridge.org/transport/) website offers information on all the routes and options available. Additionally, there is a useful journey planner available [here](https://transport.cambridgeshirepeterborough-ca.gov.uk/journey-planner/cambridgeshire/).
 Paying for the buses: You can buy tickets at machines at most major stops, or buy a ticket from the driver as your board, contactless payments are accepted, for more information on buses visit the [StageCoach website](https://www.stagecoachbus.com/help-and-contact)
 
 If you prefer, for short journeys there are scooters to rent using the [VOI app](https://www.voi.com/), and ofcause there are taxi's and UBER available.
