@@ -7,7 +7,9 @@ share-img: /assets/img/
 
 # Contact us
 
-To contact the organizing committee please <a href="mailto:gsc24-tuscon-organisers@googlegroups.com?subject=GSC24 Tucson">email us</a>.
+To contact the organizing committee please <a href="mailto:gsc25-cambridge-organisers@googlegroups.com?subject=GSC25 Cambridge">email us</a>.
+
+
 
 # The Organizing Committee members
 * [Lynn Schriml, University of Maryland](https://www.linkedin.com/in/lynn-schriml-1753609/)
