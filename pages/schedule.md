@@ -36,21 +36,27 @@ The meeting will run from:
 
 ## Confirmed Speakers
 
-Ewan Birney
-Owen White
-Nikos Kyrpides
-Kris Locken
-Susanna Sansone
-Ilene Mizrachi
-James Fellow Yates
-Neil Davies
-Thulani Makhalanyane
-Lynn Schriml 
-Chris Hunter
-Sierra Moxon
-Tanja Woyke
-Lara Urban
-Maaly Nassar
+Ewan Birney, 
+Owen White, 
+Nikos Kyrpides, 
+Kris Locken, 
+Susanna Sansone, 
+Ilene Mizrachi, 
+James Fellow Yates, 
+Neil Davies, 
+Thulani Makhalanyane, 
+Lynn Schriml, 
+Chris Hunter, 
+Sierra Moxon, 
+Tanja Woyke, 
+Lara Urban, 
+Maaly Nassar, 
+Kerstin Howe, 
+Saurabh Raghuvanshi, 
+a GBIF representative, 
+Emma Griffith, 
+Peter Woollard, 
+Chris Kent, 
 More TBA.
 
 ## Thank you to our sponsors
