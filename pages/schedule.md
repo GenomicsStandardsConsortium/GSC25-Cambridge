@@ -17,22 +17,24 @@ The meeting will run from:
 
 * **Tuesday, July 29th GSC main meeting** (**8:45 am - 5:00 pm**) 
   * [Keynote](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/keynotes/) 1: Ewan Birney
-  * Session 1: 30yrs of Genomes, 20 yrs of Genomic standards (Speaker details coming soon)
-  * Session 2: GSC partnerships (Speaker details coming soon)
+  * Session 1: 30yrs of Genomes, 20 yrs of Genomic standards 
+  * Session 2: GSC partnerships 
   * Evening: Welcome reception & BBQ
   
 * **Wednesday, July 30th GSC main meeting** 
   * [Keynote](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/keynotes/) 2: Thulani Makhalanyane
-  * Session 3: GSC MIxS v7.0 & beyond (Speaker details coming soon)
-  * Session 4: Biodiversity & environmental genomics (Speaker details coming soon)
+  * Session 3: GSC MIxS v7.0 & beyond 
+  * Session 4: Biodiversity & environmental genomics 
 
 * **Thursday, July 31st GSC main meeting**
   * [Keynote](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/keynotes/) 3: Lara Urban
-  * Session 5: Future of Genomics and Standards (Speaker details coming soon)
-  * Session 6: Inovations in Genomics and Standards (Speaker details coming soon)
+  * Session 5: Future of Genomics and Standards 
+  * Session 6: Inovations in Genomics and Standards 
 
 * **Friday, August 1st GSC Working group meetings**
   * details coming soon  
+  
+  [Click here to access the current draft agenda document](../../assets/GSC25_Agenda_in progress_for_web.docx)
 
 ## Agenda (incomplete)
 
