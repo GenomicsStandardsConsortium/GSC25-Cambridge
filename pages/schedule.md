@@ -10,7 +10,7 @@ The meeting will run from:
 
      **There will be an additional day for hands on workshops on Friday 1st Aug 2025**
 
-## Agenda Schedule 
+## Outline Schedule 
 
 * **Monday, July 28th GSC board meeting** - Invite only. Venue TBC
     * 1:00-4:00 pm: Board Meeting; 5:30 pm: Board Dinner
@@ -34,30 +34,10 @@ The meeting will run from:
 * **Friday, August 1st GSC Working group meetings**
   * details coming soon  
 
-## Confirmed Speakers
+## Agenda (incomplete)
 
-Ewan Birney, 
-Owen White, 
-Nikos Kyrpides, 
-Kris Locken, 
-Susanna Sansone, 
-Ilene Mizrachi, 
-James Fellow Yates, 
-Neil Davies, 
-Thulani Makhalanyane, 
-Lynn Schriml, 
-Chris Hunter, 
-Sierra Moxon, 
-Tanja Woyke, 
-Lara Urban, 
-Maaly Nassar, 
-Kerstin Howe, 
-Saurabh Raghuvanshi, 
-a GBIF representative, 
-Emma Griffith, 
-Peter Woollard, 
-Chris Kent, 
-More TBA.
+[ ![current-agenda](pages\images\current_agenda-3apr2025.jpg) ](assets\GSC25_current_agenda-3Apr2025.pdf)
+
 
 ## Thank you to our sponsors
 
