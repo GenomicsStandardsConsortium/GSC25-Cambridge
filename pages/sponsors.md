@@ -16,7 +16,7 @@ ___
 
 [ ![GigaScienceGold](./images/GSPress-250.jpg) ](https://gigasciencepress.com/)
 
-[ ![SequinsGold](./images/Sequins_Logo-250.jpg) ](https://www.sequins.bio/)
+[ ![SequinsGold](./images/Sequins_Logo-250.png) ](https://www.sequins.bio/)
 
 ___
 
