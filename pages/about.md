@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About GSC24
+title: About GSC25
 cover-img: /assets/img/the-board-2023.png
 share-img: /assets/img/gsc_logo_sml.png
 ---

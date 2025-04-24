@@ -38,10 +38,12 @@ The meeting will run from:
 
 ## Agenda (incomplete)
 
-[ ![current-agenda](./images/current_agenda-3apr2025.jpg) ](../../assets/GSC25_current_agenda-3Apr2025.pdf)
+[ ![current-agenda](./images/current_agenda-24apr2025.jpg) ](../../assets/GSC25_current_agenda-24Apr2025.pdf)
 
 
 ## Thank you to our sponsors
+
+[ ![Platinum1](./images/ZymoResearch-yellow-125.jpg) ]	[ ![Gold1](./images/Sequins_Logo-125.png) ]	[ ![Gold2](./images/GSPress-125.jpg) ]	[ ![Bronze1](./images/ZymoResearch-yellow-125.jpg) ]	
 
 
 
