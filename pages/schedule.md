@@ -34,7 +34,7 @@ The meeting will run from:
 * **Friday, August 1st GSC Working group meetings**
   * details coming soon  
   
-  [Click here to access the current draft agenda document](../../assets/GSC25_Agenda_in progress_for_web.docx)
+  [Click here to access the current draft agenda document](https://docs.google.com/document/d/1uxYI9YDxS6jvpFBBGmeSBeIbnpTo14W2lWtnmqLonOI/edit?usp=sharing)
 
 ## Agenda (incomplete)
 
