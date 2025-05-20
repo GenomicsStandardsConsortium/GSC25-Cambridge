@@ -43,7 +43,7 @@ The meeting will run from:
 
 ## Thank you to our sponsors
 
-![Platinum1](./images/ZymoResearch-yellow-125.jpg)	![Gold1](./images/Sequins_Logo-125.png)	![Gold2](./images/GSPress-125.jpg)	![Bronze1](./images/microbiome_logo-125.jpg) 	
+![Platinum1](./images/ZymoResearch-yellow-125.jpg)	![Gold1](./images/Sequins_Logo-125.png)	![Gold2](./images/GSPress-125.jpg) ![Silver1](./images/n6tec-125.jpg)	![Bronze1](./images/microbiome_logo-125.jpg) 	
 
 
 
