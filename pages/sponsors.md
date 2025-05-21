@@ -24,11 +24,15 @@ ___
 
 [ ![N6TecSilver](./images/n6tec-250.jpg) ](https://www.n6tec.com/)
 
+[ ![ATCCSilver](./images/ATCC_logo-v250.jpg) ](https://www.atcc.org/)
+
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
 
 [ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)
+
+[ ![BasecampResearchBronze](./images/basecamp_research_logo-250.jpg) ](https://basecamp-research.com/)
 
 ___
 
