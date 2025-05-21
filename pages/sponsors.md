@@ -14,25 +14,19 @@ ___
 
  ![GoldSponsor](./images/GoldSponsor-500.png)
 
-[ ![GigaScienceGold](./images/GSPress-250.jpg) ](https://gigasciencepress.com/)
-
-[ ![SequinsGold](./images/Sequins_Logo-250.png) ](https://www.sequins.bio/)
+[ ![GigaScienceGold](./images/GSPress-250.jpg) ](https://gigasciencepress.com/)	[ ![SequinsGold](./images/Sequins_Logo-250.png) ](https://www.sequins.bio/)
 
 ___
 
  ![SilverSponsor](./images/SilverSponsor-500.png) 
 
-[ ![N6TecSilver](./images/n6tec-250.jpg) ](https://www.n6tec.com/)
-
-[ ![ATCCSilver](./images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
+[ ![N6TecSilver](./images/n6tec-250.jpg) ](https://www.n6tec.com/)	[ ![ATCCSilver](./images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
 
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
 
-[ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)
-
-[ ![BasecampResearchBronze](./images/basecamp_research_logo-250.png) ](https://basecamp-research.com/)
+[ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)	[ ![BasecampResearchBronze](./images/basecamp_research_logo-250.png) ](https://basecamp-research.com/)
 
 ___
 
