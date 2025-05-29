@@ -38,7 +38,7 @@ The meeting will run from:
 
 ## Agenda (incomplete)
 
-[ ![current-agenda](./images/current_agenda-24apr2025.jpg) ](../../assets/GSC25_current_agenda-24Apr2025.pdf)
+[ ![current-agenda](./images/current_agenda-29may2025.jpg) ](../../assets/GSC25_current_agenda-29May2025.pdf)
 
 
 ## Thank you to our sponsors
