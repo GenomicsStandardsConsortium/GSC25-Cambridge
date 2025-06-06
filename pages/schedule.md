@@ -23,7 +23,7 @@ The meeting will run from:
   
 * **Wednesday, July 30th GSC main meeting** 
   * [Keynote](https://genomicsstandardsconsortium.github.io/GSC25-Cambridge/pages/keynotes/) 2: Thulani Makhalanyane
-  * Session 3: GSC MIxS v7.0 & beyond 
+  * Session 3: GSC Standards (MIxS v7.0 & beyond)
   * Session 4: Biodiversity & environmental genomics 
 
 * **Thursday, July 31st GSC main meeting**
@@ -34,11 +34,11 @@ The meeting will run from:
 * **Friday, August 1st GSC Working group meetings**
   * details coming soon  
   
-  [Click here to access the current draft agenda document](https://docs.google.com/document/d/1uxYI9YDxS6jvpFBBGmeSBeIbnpTo14W2lWtnmqLonOI/edit?usp=sharing)
+  [Click here to access the agenda document](https://docs.google.com/document/d/1uxYI9YDxS6jvpFBBGmeSBeIbnpTo14W2lWtnmqLonOI/edit?usp=sharing)
 
 ## Agenda (incomplete)
 
-[ ![current-agenda](./images/current_agenda-29may2025.jpg) ](../../assets/GSC25_current_agenda-29May2025.pdf)
+[ ![current-agenda](./images/current_agenda-6Jun2025.jpg) ](../../assets/GSC25_current_agenda-6Jun2025.pdf)
 
 
 ## Thank you to our sponsors
