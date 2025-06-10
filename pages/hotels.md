@@ -16,6 +16,8 @@ Single en-suite bedroom including breakfast: £115.00 + VAT per night
 Room bookings are now open, please use [this link](https://clareconferencing.com/bed-and-breakfast) to book bedroom(s) at Clare college conference venue.
 **You must enter the booking code (GSC2530) first, otherwise the conference dates will not be shown as available.**
 
+Please note: The conference rates (and consequently the booking form) are only available for the Monday, Tuesday and Wednesday nights. If you would like to extend the stay before the meeting please contact [Clare college](mailto:ald71@clare.cam.ac.uk?subject=[GSC25 accomodation booking]) directly to request additional nights. UPDATE- Unfortunately there is no availability beyond Wednesday night at Clare college.
+
 
 ![Memorial Court Single](../assets/img/Bedroom_Memorial_Court_Single_En-suite.jpg)
 
