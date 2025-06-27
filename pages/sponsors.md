@@ -30,6 +30,11 @@ ___
 
 ___
 
+In addition to the sponsors for this event the GSC would like to acknowledge the financial support received from the National Institute of Standards and Technology (NIST).
+
+[ ![NIST](.images/NIST.png)](https://www.nist.gov/)
+
+
 # Sponsorship opportunities
 
 This meeting is intended for academic, corporate, and government professionals in the fields of medical genomics, environmental genomics, metagenomics, and microbiome sciences, tackling technical, metadata, and reproducibility challenges related to sample collection, processing, and genomic sequencing workflows critical for small- and large-scale datasets. It is our intention to discuss and plan for evolving genomic and laboratory standards to address the needs of clinical, academic, and industry researchers with a focus on precision medicine and agriculture. 
