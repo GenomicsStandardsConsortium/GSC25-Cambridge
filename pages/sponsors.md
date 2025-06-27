@@ -26,7 +26,7 @@ ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
 
-[ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)	[ ![BasecampResearchBronze](./images/basecamp_research_logo-250.png) ](https://basecamp-research.com/)	[ ![QiagenBronze](./images/qiagen_logo-250.png) ](https://qiagen.com/)
+[ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)	[ ![BasecampResearchBronze](./images/basecamp_research_logo-250.png) ](https://basecamp-research.com/)	[ ![QiagenBronze](./images/qiagen_logo-250.jpg) ](https://qiagen.com/)
 
 ___
 
