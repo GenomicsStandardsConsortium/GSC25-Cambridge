@@ -32,8 +32,9 @@ ___
 
 In addition to the sponsors for this event the GSC would like to acknowledge the financial support received from the National Institute of Standards and Technology (NIST).
 
-[ ![NIST](.images/NIST.png)](https://www.nist.gov/)
+[ ![NIST](./images/NIST.png)](https://www.nist.gov/)
 
+___
 
 # Sponsorship opportunities
 
