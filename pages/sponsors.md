@@ -20,13 +20,14 @@ ___
 
  ![SilverSponsor](./images/SilverSponsor-500.png) 
 
-[ ![N6TecSilver](./images/n6tec-250.jpg) ](https://www.n6tec.com/)	[ ![ATCCSilver](./images/ATCC_logo_v250.jpg) ](https://www.atcc.org/)
+[ ![N6TecSilver](./images/n6tec-250.jpg) ](https://www.n6tec.com/)	[ ![ATCCSilver](./images/ATCC_logo_v250.jpg) ](https://www.atcc.org/) [ ![ISMESilver](./images/ISME-Logo-250.png) ](https://isme-microbes.org/)
 
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
 
 [ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)	[ ![BasecampResearchBronze](./images/basecamp_research_logo-250.png) ](https://basecamp-research.com/)	[ ![QiagenBronze](./images/qiagen-logo-250.jpg) ](https://qiagen.com/)
+
 ___
 
 # Sponsorship opportunities
