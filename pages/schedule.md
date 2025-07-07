@@ -36,14 +36,15 @@ The meeting will run from:
   
   [Click here to access the agenda document](https://docs.google.com/document/d/1uxYI9YDxS6jvpFBBGmeSBeIbnpTo14W2lWtnmqLonOI/edit?usp=sharing)
 
-## Agenda (incomplete)
+## Agenda
 
-[ ![current-agenda](./images/current_agenda-6Jun2025.jpg) ](../../assets/GSC25_current_agenda-6Jun2025.pdf)
-
+[ ![Final-agenda-day1](./images/Agenda-Day1.jpg) ](../../assets/GSC25-Agenda-Day1.pdf)
+[ ![Final-agenda-day2](./images/Agenda-Day2.jpg) ](../../assets/GSC25-Agenda-Day2.pdf)
+[ ![Final-agenda-day3](./images/Agenda-Day3.jpg) ](../../assets/GSC25-Agenda-Day3.pdf)
 
 ## Thank you to our sponsors
 
-![Platinum1](./images/ZymoResearch-yellow-125.jpg)	![Gold1](./images/Sequins_Logo-125.png)	![Gold2](./images/GSPress-125.jpg) ![Silver1](./images/n6tec-125.jpg)	![Silver2](./images/ATCC_logo_v125.jpg)	![Silver3](./images/ISME-logo-125.png)	![Bronze1](./images/microbiome_logo-125.jpg)	![Bronze2](./images/basecamp_research_logo-125.png) 	![Bronze3](./images/qiagen-logo-125.jpg) 	
+![Platinum1](./images/ZymoResearch-yellow-125.jpg)	![Gold1](./images/Sequins_Logo-125.png)	![Gold2](./images/GSPress-125.jpg) ![Silver1](./images/n6tec-125.jpg)	![Silver2](./images/ATCC_logo_v125.jpg)	![Silver3](./images/ISME-Logo-125.png)	![Bronze1](./images/microbiome_logo-125.jpg)	![Bronze2](./images/basecamp_research_logo-125.png) 	![Bronze3](./images/qiagen-logo-125.jpg) 	
 
 
 
