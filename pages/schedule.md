@@ -8,8 +8,6 @@ share-img: /assets/img/
 The meeting will run from: 
      **8am Tuesday July 29th through mid afternoon on Thursday July 31st, 2025.**
 
-     **There will be an additional day for hands on workshops on Friday 1st Aug 2025**
-
 ## Outline Schedule 
 
 * **Monday, July 28th GSC board meeting** - Invite only. Venue TBC
@@ -32,7 +30,7 @@ The meeting will run from:
   * Session 6: Inovations in Genomics and Standards 
 
 * **Friday, August 1st GSC Working group meetings**
-  * details coming soon  
+  * Invitation only, please contact the organisers if interested.
   
   [Click here to access the agenda document](https://docs.google.com/document/d/1uxYI9YDxS6jvpFBBGmeSBeIbnpTo14W2lWtnmqLonOI/edit?usp=sharing)
 
