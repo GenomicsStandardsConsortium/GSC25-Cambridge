@@ -32,13 +32,15 @@ The meeting will run from:
 * **Friday, August 1st GSC Working group meetings**
   * Invitation only, please contact the organisers if interested.
   
-  [Click here to access the agenda document](https://docs.google.com/document/d/1uxYI9YDxS6jvpFBBGmeSBeIbnpTo14W2lWtnmqLonOI/edit?usp=sharing)
 
 ## Agenda
 
 [ ![Final-agenda-day1](./images/Agenda-Day1.jpg) ](../../assets/GSC25-Agenda-Day1.pdf)
 [ ![Final-agenda-day2](./images/Agenda-Day2.jpg) ](../../assets/GSC25-Agenda-Day2.pdf)
 [ ![Final-agenda-day3](./images/Agenda-Day3.jpg) ](../../assets/GSC25-Agenda-Day3.pdf)
+
+## [Click here to access the full online agenda document](https://docs.google.com/document/d/1xfn74Uto70wPfVtkuwol-1x3txy5k5tT/edit?usp=sharing&ouid=117709603251193000699&rtpof=true&sd=true)
+
 
 ## Thank you to our sponsors
 
