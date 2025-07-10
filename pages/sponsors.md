@@ -14,7 +14,7 @@ ___
 
  ![GoldSponsor](./images/GoldSponsor-500.png)
 
-[ ![GigaScienceGold](./images/GSPress-250.jpg) ](https://gigasciencepress.com/)	[ ![SequinsGold](./images/Sequins_Logo-250.png) ](https://www.sequins.bio/)
+[ ![GigaScienceGold](./images/GSPress-250.jpg) ](https://gigasciencepress.com/)	[ ![SequinsGold](./images/Sequins_Logo-250.png) ](https://www.sequins.bio/) [ ![PacBioGold](./images/PacBio-250.png) ](https://www.pacb.com/)
 
 ___
 
