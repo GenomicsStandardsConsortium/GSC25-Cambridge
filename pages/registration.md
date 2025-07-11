@@ -7,7 +7,7 @@ share-img: /assets/img/
 
 # In person registration
 
-Registration in now open, it will close 30th June 2025.
+Registration is now closed.
 
 By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration. Please note, **invited speakers and GSC board members** should NOT register using these links, please contact the organisers if you have not had registration details sent to you already.
 
@@ -32,11 +32,9 @@ Early bird:$450 USD (before end of April)
 
 Full price: $500 USD (after May 1st)
 
-Complete the registration form below to register for the meeting:
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRZToVv5UoaFuIkLPPy9l9g1boBVvdL_YFP0SxNfBi2pHOqA/viewform?embedded=true" width="640" height="2243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 <br>
-Please note the change in date of early bird registration has been nessasery due to the current economic climate, rising costs and exchange rates. 
+Please note registration is now closed.
 <br>
 
 ## Conference Terms and Conditions
