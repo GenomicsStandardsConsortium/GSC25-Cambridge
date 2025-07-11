@@ -27,6 +27,7 @@ ___
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
 
 [ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)	[ ![BasecampResearchBronze](./images/basecamp_research_logo-250.png) ](https://basecamp-research.com/)	[ ![QiagenBronze](./images/qiagen-logo-250.jpg) ](https://qiagen.com/)
+[ ![ScientificDataBronze](./images/ScientificData-250.png) ](https://www.nature.com/sdata/)
 
 ___
 
